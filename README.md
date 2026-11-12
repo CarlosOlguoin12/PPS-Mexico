@@ -7,6 +7,10 @@ usuario:Carlos
 
 sise usa la pagina web que es el siguiente enlace es Admin:Carlos
 Contraseña:Azul12345678
+
+
+
+web:pps-mexico-production.up.railway.app
 Terminal del servidor:
 
 ```bash
