@@ -1,7 +1,7 @@
 
 Se dejo en blanco podructos para que se realicen las pruebas del proyecto
 ADMIN
-contraseña:CAzul1234
+contraseña:Azul1234
 usuario:Carlos
 Terminal del servidor:
 
