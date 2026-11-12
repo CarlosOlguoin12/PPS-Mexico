@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Configuración y datos privados del servidor
+servidor/.env
+servidor/data/*
+!servidor/data/.gitkeep
+
+# Protección extra al publicar
+**/*.sqlite
+**/*.sqlite-*
+**/.jwt-secret
+.env
+**/.env
+# Credenciales
+.env.*
+!.env.example
+
+# Bases de datos
+*.db
+*.db-*
+*.sqlite3
+
+# Archivos privados
+servidor/uploads/
+servidor/data/
+!servidor/data/.gitkeep
+
+# Copias y respaldos
+*.zip
+*.bak

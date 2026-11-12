@@ -1,0 +1,11 @@
+**/node_modules
+**/dist
+**/.env
+**/.jwt-secret
+**/*.sqlite
+**/*.sqlite-*
+servidor/data/
+.git
+.vscode
+*.zip
+*.log
