@@ -1,8 +1,12 @@
 
 Se dejo en blanco podructos para que se realicen las pruebas del proyecto
-ADMIN
+ADMIN PARA LOCALHOTS
 contraseña:Azul1234
 usuario:Carlos
+
+
+sise usa la pagina web que es el siguiente enlace es Admin:Carlos
+Contraseña:Azul12345678
 Terminal del servidor:
 
 ```bash
